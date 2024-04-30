@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImmaculateMovieApp", "ImmaculateMovieApp.csproj", "{DC9B0DD8-EEB9-43D9-ABBA-0B3FC6C63789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMovieApp", "..\TestMovieApp\TestMovieApp\TestMovieApp.csproj", "{93A5F964-F6C4-457C-9BB9-960DD4A5E851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC9B0DD8-EEB9-43D9-ABBA-0B3FC6C63789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9B0DD8-EEB9-43D9-ABBA-0B3FC6C63789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9B0DD8-EEB9-43D9-ABBA-0B3FC6C63789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9B0DD8-EEB9-43D9-ABBA-0B3FC6C63789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A5F964-F6C4-457C-9BB9-960DD4A5E851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A5F964-F6C4-457C-9BB9-960DD4A5E851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A5F964-F6C4-457C-9BB9-960DD4A5E851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A5F964-F6C4-457C-9BB9-960DD4A5E851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02331DA3-63DA-4F07-8C06-1E41E5B6DC9B}
+	EndGlobalSection
+EndGlobal
